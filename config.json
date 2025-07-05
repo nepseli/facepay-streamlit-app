@@ -1,0 +1,8 @@
+{
+    "subscription_id": "341b446d-e823-4b0c-aa88-f08a1e0c4ca8",
+    "resource_group": "ml-primary",
+    "workspace_name": "Azure-ml-ws-prmry",
+    "azure_storage_connection_string": "DefaultEndpointsProtocol=https;AccountName=azuremlwsprmry5670979200;AccountKey=AfBnFpjGPiMcZ0X745HXDdxPCnh5c2kBNpTmOzf8D/SNe+bywslAFmUS/6okw20JUy2ESRX9NNPe+ASt6ubtZg==;EndpointSuffix=core.windows.net",
+    "container_name": "azureml-blobstore-281328ce-d59f-4467-919e-9822d1a3381a"
+
+}

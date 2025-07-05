@@ -1,0 +1,12 @@
+pandas
+numpy
+Pillow
+azureml-core
+azure-storage-blob
+opencv-python-headless==4.8.1.78
+tf-keras
+tensorflow==2.16.1
+deepface
+streamlit
+scipy
+protobuf==3.20.3
