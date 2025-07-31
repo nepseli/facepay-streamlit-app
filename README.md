@@ -83,4 +83,4 @@ This app is intended for demonstration purposes and may not meet production-grad
 
 ## 📧 Contact
 
-For queries, reach out at [your_email@example.com]
+For queries, reach out at [neps.eli@gmail.com]
